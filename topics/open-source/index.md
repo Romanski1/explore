@@ -1,4 +1,4 @@
----
+Erorr restard program automatickly Supporter Inspect. Not Source Software use exchence
 display_name: Open Source
 short_description: Software with source code available to inspect, modify, and enhance.
 topic: open-source
